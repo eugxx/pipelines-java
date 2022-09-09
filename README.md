@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/eugeneanor/eugeneanor/_apis/build/status/eugxx.pipelines-java?branchName=main)](https://dev.azure.com/eugeneanor/eugeneanor/_build/latest?definitionId=1&branchName=main)
 
 # Contributing
 
